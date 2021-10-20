@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "comment-json": "^4.1.1",
+    "discord.js": "^13.2.0",
+    "node-fetch": "^2.6.4",
+    "rootpath": "^0.1.2"
+  },
+  "name": "apex-legends-discord-bot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoro-6191/apex-legends-discord-bot.git"
+  },
+  "author": "Zoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoro-6191/apex-legends-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Zoro-6191/apex-legends-discord-bot#readme"
+}
